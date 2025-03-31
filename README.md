@@ -79,7 +79,7 @@ The dashboard is built using Spotify streaming history data, including:
 
 ## 🛠️ Requirements  
 - **Power BI Desktop** (Latest version recommended)  
-- **Spotify Streaming Data (CSV or JSON format)**  
+- **Spotify Streaming Data (CSV format)**  
 
 ---
 
